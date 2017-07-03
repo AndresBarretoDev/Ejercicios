@@ -1,0 +1,10 @@
+body{
+	font-size: 1rem;
+}
+.borde{
+	width: 70vh;
+	border:2px solid #000;
+}
+.fondo{
+	background: #cccccc;
+}
